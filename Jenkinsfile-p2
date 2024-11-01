@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('Hello-proj2') {
       steps {
-        echo "hello from Jenkinsfile for proj2"
+        echo "hello from Jenkinsfile for proj-copied another file"
       }
     }
   }
